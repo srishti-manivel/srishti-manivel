@@ -6,4 +6,4 @@
 
 Welcome to my GitHub!!!
 
-➡️ Curious what I'm working on or thinking about? Head over to [srishtimanivel.com](https://srishtimanivel.com) — it's all there, in one place.
+➡️ Curious what I'm working on or thinking about? Head over to [srishtimanivel.com](https://srishtimanivel.com)
