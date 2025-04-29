@@ -1,4 +1,5 @@
-# Hi, I’m Srishti. Great to have you here <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="24" />
+# Hi, I’m Srishti. Great to have you here <img src="https://emoji.gg/assets/emoji/69955-rocket-animated.gif" width="24" />
+
 
 
 ### Computer Science @ ETH Zurich | Co-Founder of TryNew
